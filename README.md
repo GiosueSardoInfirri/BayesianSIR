@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/62724611/166108076-98afe0b7-802c-4970-a2d5-bbb997da759c.png" height="150"/>
 </p>
 
-<h3 align="center"><b>Group members:</b> A. Feltrin, G. Sardo Infirri, R. Tancredi, S. Toso<br></h3>
+<h3 align="center"><b>Group members:</b> Antonio Feltrin, Giosuè Sardo Infirri, Riccardo Tancredi, Simone Toso<br></h3>
 
 # Bayesian SIR: Covid data analysis
 
